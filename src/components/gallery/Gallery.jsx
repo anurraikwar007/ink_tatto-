@@ -3,7 +3,7 @@ import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 
 import t1 from "../../assets/Blackwork Design.jpg";
-import t2 from "../../assets/Dark Gothic ink.jpg";
+import t2 from "../../assets/Dark Gothic Ink.jpg";
 import t3 from "../../assets/Dragon Sleeve.jpg";
 import t4 from "../../assets/Geometric Pattern.jpg";
 import t5 from "../../assets/Japanese Koi.jpg";
